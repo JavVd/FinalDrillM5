@@ -1,0 +1,2 @@
+-- Utilizar archivo para restaurar DB
+pg_restore -U postgres -d dvdrental dvdrental.tar
